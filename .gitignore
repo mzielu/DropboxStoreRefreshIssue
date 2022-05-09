@@ -83,3 +83,10 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# Intellij
+*.iml
+.idea/
+.classpath
+.project
+.settings
